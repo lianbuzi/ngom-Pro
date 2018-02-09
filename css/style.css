@@ -3,9 +3,6 @@
 html,body {font-family:Arial,"Microsoft YaHei";}
 ol,ul,li {list-style: none;}
 a {text-decoration: none;}
-body{
- /*transform: scale(0.8,0.8);*/
-}
 .allwrap{
     min-width:13.4rem;
     margin:auto;
@@ -51,7 +48,7 @@ body{
 .banner .wcon>span{display:block;color:#fff;margin:0 auto;font-size:.18rem;line-height:.30rem;  text-align:justify; margin-top:.15rem;}
 .banner .wbtn{width:100%;margin: .65rem auto 0;position:relative;display:block;width:1.00rem;height:.30rem;font-size:.14rem;color:#fff;text-align: center;line-height: .30rem;background: #e07c05;border-radius: .50rem;}
 /*part1*/
-.part1{width:100%;margin:0 auto;overflow:hidden;    padding-bottom: .50rem;transform: scale(0.9,0.9)}
+.part1{width:100%;margin:0 auto;overflow:hidden;    padding-bottom: .50rem;transform: scale(0.85)}
 .part1 .tit1>p,.part2 .tit1>p{text-align:center;font-size:.4rem;color:#222222;display:block;margin-top:.80rem;}
 .ncon{width:13.41rem;margin:0 auto;overflow:hidden;}
 .ncon .dw1,.ncon .dw2,.ncon .dw3,.ncon .dw4{position:relative;overflow:visible;margin-top: .35rem;}
